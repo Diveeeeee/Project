@@ -11,7 +11,7 @@ def kecepatan():
   if kecepatan == "-":
     hasil = int(jarak) / int(waktu)
   print(hasil)
-  
+kecepatan()
   
   
   
