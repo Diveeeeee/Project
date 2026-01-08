@@ -12,4 +12,4 @@ def kalkulator():
   if b[1] == "÷":
     hasil = c / d 
   print(hasil)
-  
+kalkulator()
